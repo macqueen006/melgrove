@@ -7,19 +7,19 @@ const products = [
     id: 1,
     subTitle: "Curology",
     title: "A custom formula for your skin's unique needs",
-    img: "/dario-gomes.jpg",
+    img: "https://images.unsplash.com/photo-1564202168065-5af4edeba2ac?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 2,
     subTitle: "Your space",
     title: "Open space floor plan for your next ventures",
-    img: "/derek-liang.jpg",
+    img: "https://images.unsplash.com/photo-1601534622119-e9b3aa7c7bdf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8",
   },
   {
     id: 3,
     subTitle: "Lumin",
     title: "For your best look ever",
-    img: "/maria-lupan.jpg",
+    img: "https://images.unsplash.com/photo-1616595286596-f0b561c76bc5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
   },
 ];
 
