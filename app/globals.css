@@ -2,16 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-html,body {
-  /* user-select: none; */
-  overscroll-behavior: none;
-  margin: 0;
-  box-sizing: border-box;
-  /* visibility: hidden; */
+html, body {
+    /* user-select: none; */
+    /*overscroll-behavior: none;*/
+    margin: 0;
+    box-sizing: border-box;
+    /* visibility: hidden; */
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+    .custom-height {
+        height: calc(1vh * 50);
+    }
 }

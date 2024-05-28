@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="header fixed top-0 w-full h-24 sm:h-32 z-10 bg-white/85 bg-clip-padding backdrop-filter backdrop-blur-3xl">
+      <div className="header fixed top-0 w-full h-24 sm:h-32 z-10 bg-white/60 bg-clip-padding backdrop-blur-2xl">
       <div className="w-full max-w-[1080px] h-full mx-auto">
         <div className="row flex h-full px-4 lg:px-8 items-center justify-between">
           <div className="logo">
