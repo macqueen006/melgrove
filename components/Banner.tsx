@@ -1,14 +1,12 @@
 import React from "react";
 import ArrowRight from "../assets/ArrowRight.svg";
-import ArrowLeft from "../assets/ArrowLeft.svg";
 
 type BannerProps = {
   lineSpan: React.RefObject<HTMLElement>;
-  // text: React.RefObject<HTMLHeadingElement>;
 };
 const Banner = () => {
   return (
-    <section className="main w-full h-[50svh] bg-white relative block">
+      <section className="main w-full h-[50dvh] landscape:h-dvh landscape:pt-4 bg-white relative block">
       <div className="w-full max-w-[1080px] mx-auto h-full">
         <div className="flex h-full flex-col justify-center px-4 lg:px-10">
           <h2 className="text-2xl md:text-3xl font-bold z-30 text-white mix-blend-difference mt-[72px]">
